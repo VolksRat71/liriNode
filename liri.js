@@ -1,18 +1,18 @@
-//application first request's for .gitignored'd .env folder
+// application first request's for .gitignored'd .env folder
 require("dotenv").config();
 
-//application required packages before running
-var fs = require("fs");
-var keys = require("./keys.js");
-var Spotify = require('node-spotify-api');
+// application required packages before running
+const request = require("request");
+const fs = require("fs");
+const keys = require("./keys.js");
+const Spotify = require('node-spotify-api');
+const spotify = new Spotify(keys.spotify);
 
-var spotify = new Spotify(keys.spotify);
-
-// capture GitBash command line values
+// capture terminal command line values
 var userCommand = process.argv[2];
 var userInput = process.argv.slice(3).join(" ");
 
-// command exicution controller
+// case execution controller
 function userValue () {
     switch (userCommand){
         case `concert-this`:
@@ -28,7 +28,12 @@ function userValue () {
             break;
         
         case `do-what-it-says`:
-            failSafeDisplay()
+            doWhatDisplay();
+            break;
+        
+        default:
+            console.warn("|            *please enter valid command*           |")
+            console.log("|---------------------------------------------------|");
             break;
     }
 }
@@ -36,22 +41,51 @@ function userValue () {
 userValue();
 
 // case exicution functions
-function concertDisplay() {
-    console.log("Concert called " + userInput)
-};
+    //`concert-this` case, simple user term insert into Url
+    function concertDisplay() {
+        var queryUrl = "https://rest.bandsintown.com/artists/" + userInput + "/events?app_id=codingbootcamp";
+        request(queryUrl, function(error, response, body) {
+        // If the request is successful
+        if (!error && response.statusCode === 200) {
+            var concerts = JSON.parse(body);
+            for (var i = 0; i < concerts.length; i++) {
+                console.log("|============> Start Event Information <============|");
+                console.log(" Concerts searched for " + userInput);
+                console.log(" Venue Location: " +  concerts[i].venue.city);
+                console.log(" Name of the Venue: " + concerts[i].venue.name);
+                console.log(" Date of the Event: " +  concerts[i].datetime);
+                console.log("|=============> End Event Information <=============|");
+            }}else{
+                console.warn("|                 *an error occured*                |")
+                console.log("|---------------------------------------------------|");
+            };
+    });}
 
-function songDisplay() {
-    console.log("Spotify called " + userInput)
-};
 
-function movieDisplay() {
-    console.log("Movie called " + userInput)
-};
+    // call spotify with i.d & secret, hidden from git.
+    function songDisplay() {
+        console.log("|=============> Start Song Information <============|");
+        console.log(" Song information searched for " + userInput);
+        console.log(" name of venue");
+        console.log(" venue location");
+        console.log(" date of concert");
+        console.log("|==============> End Song Information <=============|");
+    };
 
-function failSafeDisplay() {
-fs.readFile("random.txt", 'utf8', function(err, data) {
-  if (err) throw err;
-  console.log(data)
-  userValue(data);
-});
-};
+    // axios call to OMDB
+    function movieDisplay() {
+        console.log("|============> Start Movie Information <============|");
+        console.log(" Concert called " + userInput);
+        console.log(" name of venue");
+        console.log(" venue location");
+        console.log(" date of concert");
+        console.log("|=============> End Movie Information <=============|");
+    };
+
+    // if `do-what-it-says` called, collect value and run case `spotify-this-song` with pre-written value
+    function doWhatDisplay() {
+    fs.readFile("random.txt", 'utf8', function(err, data) {
+    if (err) throw err;
+    console.log(data);
+    });
+    };
