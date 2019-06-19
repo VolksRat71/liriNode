@@ -104,3 +104,255 @@
  Plot: When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.
  Actors: Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood
 |==============> End Movie Information <==============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Edmonton Expo Centre
+ Venue Location: Edmonton
+ Date of the Event: 2019-07-06T19:00:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Punk In Drublic Fest
+ Venue Location: Portland
+ Date of the Event: 2019-07-12T13:00:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: PNE Amphitheatre
+ Venue Location: Vancouver
+ Date of the Event: 2019-07-13T19:00:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Festival Des Bières Du Monde
+ Venue Location: Chicoutimi
+ Date of the Event: 2019-07-20T14:00:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Shoreline Amphitheatre
+ Venue Location: Mountain View
+ Date of the Event: 2019-07-21T19:00:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Tsunami Xixón 2019
+ Venue Location: Gijon
+ Date of the Event: 2019-08-02T19:00:18
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Kulturzentrum Schlachthof
+ Venue Location: Wiesbaden
+ Date of the Event: 2019-08-05T19:00:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Punk Rock Holiday
+ Venue Location: Tolmin
+ Date of the Event: 2019-08-08T14:00:17
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Alter Schlachthof Wels
+ Venue Location: Wels
+ Date of the Event: 2019-08-09T20:00:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Backstage Werk
+ Venue Location: Munchen
+ Date of the Event: 2019-08-10T20:30:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Lokerse Feesten
+ Venue Location: Lokeren
+ Date of the Event: 2019-08-11T10:00:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Bay Fest
+ Venue Location: Bellaria-igea Marina
+ Date of the Event: 2019-08-12T19:00:28
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Post Tenebras Rock - Rez de l'Usine
+ Venue Location: Chatelaine-geneve
+ Date of the Event: 2019-08-13T19:30:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Post Tenebras Rock - Rez de l'Usine
+ Venue Location: Chatelaine-geneve
+ Date of the Event: 2019-08-14T20:00:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: MOTOCULTOR
+ Venue Location: Vannes
+ Date of the Event: 2019-08-15T14:00:36
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: ELYSEE MONTMARTRE
+ Venue Location: Paris
+ Date of the Event: 2019-08-17T19:30:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for NOFX
+ Name of the Venue: Red Rocks Amphitheatre
+ Venue Location: Morrison
+ Date of the Event: 2019-08-25T16:00:00
+|=============> End Event Information <=============|
+|=============> Start Movie Information <=============|
+ Movie search for the good, the bad, and the ugly
+ Title: The Good, the Bad and the Ugly
+ IMDB Rating: 8.8
+ Rotten Tomatoes Rating: 97%
+ Country of Production: Italy, Spain, West Germany
+ Language: Italian, English, Spanish
+ Plot: A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.
+ Actors: Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè
+|==============> End Movie Information <==============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: From the Hips
+ Preview song: https://p.scdn.co/mp3-preview/af58e7433d54db79ddaea8fd8c049b4c850cc09a?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Mama, I'm Swollen
+ Album: Mama, I'm Swollen
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Rock Yo Hips (feat. Lil Scrappy) (Main)
+ Preview song: https://p.scdn.co/mp3-preview/0d5ea0e3216b9e5045d4e2f59c7b0db344a198d9?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: The Crunk Recordings: Hits From The Pioneers And Players Of Crunk
+ Album: The Crunk Recordings: Hits From The Pioneers And Players Of Crunk
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: From The Hips
+ Preview song: https://p.scdn.co/mp3-preview/ac367ca9d5d60fecfb86047e0e7e15356084749e?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Cursive/Ladyfinger (ne) Record Store Day 10"
+ Album: Cursive/Ladyfinger (ne) Record Store Day 10"
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Freed from a Prison
+ Preview song: https://p.scdn.co/mp3-preview/39baa50358b3a1eea6bab1c934e0a553872286ab?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Behind Beyond
+ Album: Behind Beyond
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Hips Swingin' - Live from Riot Fest 2006, Chicago
+ Preview song: https://p.scdn.co/mp3-preview/d8b9be634728d8ac07842984b010b0fb2d2d5271?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: "What Poor Gods We Do Make: The Story and Music Behind Naked Raygun" - Music from the Motion Picture
+ Album: "What Poor Gods We Do Make: The Story and Music Behind Naked Raygun" - Music from the Motion Picture
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: From the Hips
+ Preview song: https://p.scdn.co/mp3-preview/5c7b6ccd1d6ee557e107a7c0af54ab106679a69e?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Nylon Pistoles
+ Album: Nylon Pistoles
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Hips
+ Preview song: https://p.scdn.co/mp3-preview/a6fa9f801cb76b7b10f46cdea466bf94c1b8ecac?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Fashion Week: Music from the Runway
+ Album: Fashion Week: Music from the Runway
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Kiss From The Hips
+ Preview song: https://p.scdn.co/mp3-preview/f1fc5d2e7647411d375f69e9f648c39adc0866fc?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Ways Of New Amusement
+ Album: Ways Of New Amusement
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Shoot from the Hips
+ Preview song: https://p.scdn.co/mp3-preview/e2e189d87ca7c0b5c7329a54471dfc0ea993ab29?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Shoot from the Hips (Remezcla)
+ Album: Shoot from the Hips (Remezcla)
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Hit from the Hips
+ Preview song: https://p.scdn.co/mp3-preview/6a4b4695adfa747365e8c2d2e1d67ed844c6fef9?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Blind Spot
+ Album: Blind Spot
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Swinging From the Hips
+ Preview song: https://p.scdn.co/mp3-preview/5728a7de0fb625c882c326e3021ec1d91a3b809b?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Burning Drums: Freeform Jazz & Swing
+ Album: Burning Drums: Freeform Jazz & Swing
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Hip's Groove
+ Preview song: https://p.scdn.co/mp3-preview/ff14999b2c6620741abdbc1bd222d43b54d3b91b?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: The Asterisks EP
+ Album: The Asterisks EP
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Scarlet Hips
+ Preview song: https://p.scdn.co/mp3-preview/1181929f3aff725d1e14a4a754c29cee779fc9d6?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: ...From The Beginning
+ Album: ...From The Beginning
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Hip's Groove
+ Preview song: https://p.scdn.co/mp3-preview/ff14999b2c6620741abdbc1bd222d43b54d3b91b?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: No Fuss Best of 2018
+ Album: No Fuss Best of 2018
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Hip's Groove
+ Preview song: https://p.scdn.co/mp3-preview/ff14999b2c6620741abdbc1bd222d43b54d3b91b?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: What's The Fuss (Compiled and Mixed by Saison)
+ Album: What's The Fuss (Compiled and Mixed by Saison)
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: My Hips
+ Preview song: https://p.scdn.co/mp3-preview/17e4f3c44b539ce5532df63ed067f79a2be50ae4?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: From the Heart of a Woman: Her Pain, Her Passion, Her Reality
+ Album: From the Heart of a Woman: Her Pain, Her Passion, Her Reality
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Hips Don't Lie
+ Preview song: https://p.scdn.co/mp3-preview/b0b2e55d1aa2c1591ab5b0b7068edf2d7b04c186?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: K Klassik from the Vaults, Vol. 4
+ Album: K Klassik from the Vaults, Vol. 4
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Shake Your Hips
+ Preview song: https://p.scdn.co/mp3-preview/18e74b845ad801a77a21a8d5d206fb359549884c?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Paul Woodley One Man Band (From the Crossroads)
+ Album: Paul Woodley One Man Band (From the Crossroads)
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Hips, Lips & Fingertips
+ Preview song: https://p.scdn.co/mp3-preview/8e6b8498a1c293e1ffaeb4a52f96d3c73e201e44?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Embracing Your Beauty... From The Inside Out
+ Album: Embracing Your Beauty... From The Inside Out
+|===============> End Song Information <===============|
+|==============> Start Song Information <==============|
+ Song information searched for from the hips
+ Song name: Hey Baby! (Shake Those Hula Hips)
+ Preview song: https://p.scdn.co/mp3-preview/35c63840486c9fc7f2d06038c13e87f85c5d3f66?cid=cad2eeb4b6824fe28cdecc2eaacf4545
+ Album: Songs from the Lu'au Lounge
+ Album: Songs from the Lu'au Lounge
+|===============> End Song Information <===============|
