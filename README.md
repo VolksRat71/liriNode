@@ -17,4 +17,4 @@ examples:
 `movie-this`
 ![movie](preview-images/api-movie.JPG)
 
-try `do-what-it-says` to acess random.txt and look up that song!
+try `do-what-it-says` to access random.txt and look up that song!
