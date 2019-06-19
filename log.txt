@@ -1,0 +1,106 @@
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Zeltfestival Rhein-Neckar
+ Venue Location: Mannheim
+ Date of the Event: 2019-06-19T19:00:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Release Athens Festival
+ Venue Location: Athens
+ Date of the Event: 2019-06-21T19:00:56
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Fix Factory of Sound Open Air
+ Venue Location: Thessaloniki
+ Date of the Event: 2019-06-22T19:00:58
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Universiada Hall
+ Venue Location: Sofia
+ Date of the Event: 2019-06-24T19:00:13
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Volt Festival Sopron
+ Venue Location: Sopron
+ Date of the Event: 2019-06-26T19:00:39
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Provinssi
+ Venue Location: Pera-seinajoki
+ Date of the Event: 2019-06-28T19:00:30
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Parkpop
+ Venue Location: Den Haag
+ Date of the Event: 2019-06-29T19:00:57
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: A2 Club
+ Venue Location: St Petersburg
+ Date of the Event: 2019-07-02T19:00:26
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Adrenaline Stadium
+ Venue Location: Moscow
+ Date of the Event: 2019-07-03T19:00:27
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Citadelle D'arras
+ Venue Location: Arras-en-lavedan
+ Date of the Event: 2019-07-05T15:30:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Roskilde Festival
+ Venue Location: Roskilde
+ Date of the Event: 2019-07-06T19:00:10
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Summerjam
+ Venue Location: Cologne
+ Date of the Event: 2019-07-07T19:00:35
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Rockhal
+ Venue Location: Esch-sur-alzette
+ Date of the Event: 2019-07-09T19:00:59
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Dour Festival
+ Venue Location: Dour
+ Date of the Event: 2019-07-11T19:00:00
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: Lovebox Festival
+ Venue Location: London
+ Date of the Event: 2019-07-12T19:00:47
+|=============> End Event Information <=============|
+|============> Start Event Information <============|
+ Concerts searched for cypress hill
+ Name of the Venue: NASS Festival
+ Venue Location: Bristol
+ Date of the Event: 2019-07-14T19:00:00
+|=============> End Event Information <=============|
+|=============> Start Movie Information <=============|
+ Movie search for eternal sunshine of the spotless mind
+ Title: Eternal Sunshine of the Spotless Mind
+ IMDB Rating: 8.3
+ Rotten Tomatoes Rating: 93%
+ Country of Production: USA
+ Language: English
+ Plot: When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.
+ Actors: Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood
+|==============> End Movie Information <==============|
